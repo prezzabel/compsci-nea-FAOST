@@ -1,5 +1,5 @@
 students = {
-    10000: {name: 'Student', year_group : 7,
+    10000: {name: 'Student 1', year_group : 7,
             timetable: {mon: {1: '', 2: '', 3: '', 4: '', 5: ''},
                         tues: {1: '', 2: '', 3: '', 4: '', 5: ''},
                         wed: {1: '', 2: '', 3: '', 4: '', 5: ''},

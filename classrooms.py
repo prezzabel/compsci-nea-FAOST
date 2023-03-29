@@ -1,5 +1,5 @@
 classrooms = {
-    30000: {roomname: 100, subject: 'maths',
+    10000: {roomname: 100, subject: 'maths',
             availability: {mon: {1: '', 2: '', 3: '', 4: '', 5: ''},
                            tues: {1: '', 2: '', 3: '', 4: '', 5: ''},
                            wed: {1: '', 2: '', 3: '', 4: '', 5: ''},
